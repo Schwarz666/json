@@ -1,0 +1,19 @@
+._container{
+    border: 4px;
+    border-style: solid;
+    border-color: #2c3e50;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+._single_user_btn, ._all_users_btn, ._enter_group{
+    margin-bottom: 20px;
+}
+#_btn_out, ._tbl_all_users, ._my_form{
+    display: none;
+}
+img{
+    height: 50px;
+    margin-left: 20px;
+}
